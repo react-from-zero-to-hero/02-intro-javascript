@@ -1,1 +1,1 @@
-console.log ('Alberth');
+console.log();
