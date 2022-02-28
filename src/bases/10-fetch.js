@@ -1,3 +1,5 @@
+// giphy creado con cuenta de facebook
+
 const api_key = 'LD6WloCo8MSzyHjFsJOXuLsM1bXaGhP9';
 
 const peticion = fetch(`http://api.giphy.com/v1/gifs/random?api_key=${ api_key }`);
