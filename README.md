@@ -2,6 +2,9 @@
 
 So this is a project with the basics of javascript you need to know to get started with react.
 
+To start run...
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
